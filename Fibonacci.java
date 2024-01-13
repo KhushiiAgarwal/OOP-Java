@@ -1,5 +1,5 @@
 import java.util.*;  
-class Main{
+class Fibonacci{
     public static int Fibbonacci(int num){
         int t1=0,t2=1,fib=0;
         for(int i=0;i<num;i++){
