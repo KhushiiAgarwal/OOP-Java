@@ -13,7 +13,5 @@ class Duplicacy{
         System.out.println("Original List"+list);
         ArrayList<Integer> newList = removeDuplicates(list); 
         System.out.println("Unique Elements List: "+newList);
-
-
     }
 }
