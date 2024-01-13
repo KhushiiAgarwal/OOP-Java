@@ -1,5 +1,5 @@
 import java.util.*;  
-class Main{
+class Factorial{
     public static int Factorial(int num){
         if(num==0 ||num==1){
             return 1;
